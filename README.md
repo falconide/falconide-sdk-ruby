@@ -9,6 +9,7 @@ Run the build command
 ```
 git clone https://github.com/falconide/falconide-sdk-ruby.git .
 cd falconide-sdk-ruby
+cd falconide
 ```
 
 Run the install command  
@@ -45,7 +46,6 @@ class Test
         response=Falconide::response
 end
 end
-~        
 ```
 
 Now run it with ruby
